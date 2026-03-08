@@ -1,0 +1,26 @@
+"""
+Requirements file for Transformer project.
+
+The core implementation only requires NumPy. Additional packages are
+optional and used for visualization, testing, and advanced features.
+"""
+
+# Core requirements
+numpy>=1.19.0  # Numerical computing
+
+# Optional: For Jupyter notebooks and visualization
+# jupyter>=1.0.0
+# matplotlib>=3.3.0
+# seaborn>=0.11.0
+
+# Optional: For testing
+# pytest>=6.0.0
+# pytest-cov>=2.10.0
+
+# Optional: For performance and advanced features
+# scipy>=1.5.0  # For more advanced numerical operations
+# scikit-learn>=0.23.0  # For metrics and utilities
+
+# Optional: For PyTorch/TensorFlow interoperability
+# torch>=1.7.0  # If using PyTorch backend
+# tensorflow>=2.4.0  # If using TensorFlow backend
