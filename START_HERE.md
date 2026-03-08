@@ -144,34 +144,6 @@ output = model.forward(src, tgt)  # Shape: (2, 8, 1000)
 
 ---
 
-## ✨ Notable Features
-
-### Mathematical Excellence
-- Complete derivations of all formulas
-- Numerical stability analysis
-- Complexity analysis (time & space)
-- Intuitive explanations with examples
-
-### Code Quality
-- 2,500+ lines of comments explaining every operation
-- Clear variable naming (matches academic papers)
-- Modular, testable design
-- No external ML frameworks
-
-### Documentation Excellence
-- 3,500+ lines across 6 comprehensive documents
-- Multiple documentation levels
-- Learning paths for different skill levels
-- Academic-style writing
-
-### Educational Design
-- Every component can be understood independently
-- Progressive complexity levels
-- Examples demonstrating each concept
-- Tests verifying correctness
-
----
-
 ## 🏆 What This Teaches
 
 1. **Understanding Transformers**
