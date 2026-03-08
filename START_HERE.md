@@ -225,44 +225,6 @@ Interfaces: forward(), encode(), decode()
 
 ---
 
-## 🎓 Learning Outcomes
-
-After studying this project, you will understand:
-
-✓ How attention mechanisms work mathematically  
-✓ Why scaled dot-product attention is used  
-✓ How multi-head attention increases model capacity  
-✓ The role of positional encoding  
-✓ The feed-forward network architecture  
-✓ Residual connections and layer normalization  
-✓ Encoder and decoder structure  
-✓ How transformers process sequences  
-✓ The complete transformer architecture  
-
----
-
-## 🌟 Highlights
-
-### Best For Learning
-- Every operation explained mathematically
-- Multiple documentation levels
-- Runnable examples
-- Comprehensive tests
-
-### Most Detailed Documentation
-- 800 lines of pure mathematics
-- 1,500 line main guide
-- Technical architecture guide
-- Getting started walkthrough
-
-### Most Educational Code
-- 2,500 lines of comments
-- Clear variable naming
-- Modular components
-- Clean interfaces
-
----
-
 ## 🚦 Quality Checklist
 
 - ✅ Complete Transformer implementation
@@ -323,7 +285,7 @@ After studying this project, you will understand:
 - Source code - Detailed comments
 
 ### External References
-- Paper: https://arxiv.org/abs/1706.10495
+- Paper: https://arxiv.org/abs/1706.03762
 - Guide: https://jalammar.github.io/illustrated-transformer/
 - Code: github.com/pytorch/pytorch (PyTorch reference)
 
