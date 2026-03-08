@@ -4,7 +4,7 @@
 
 This is a comprehensive academic project implementing the Transformer architecture from first principles. The implementation emphasizes mathematical clarity and educational value, with extensive documentation of the underlying concepts.
 
-**Original Paper:** [Attention Is All You Need](https://arxiv.org/abs/1706.10495) (Vaswani et al., 2017)
+**Original Paper:** [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017)
 
 ## What is a Transformer?
 
