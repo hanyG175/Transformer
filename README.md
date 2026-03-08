@@ -184,7 +184,7 @@ output = encoder_layer.forward(input_sequence)
 Adds masked self-attention and cross-attention to encoder output:
 
 $$x = x + \text{MaskedSelfAttention}(x)$$
-$$x = x + \text{CrossAttention}(x, \text{encoder\_output})$$
+$$x = x + \text{CrossAttention}(x, \text{encoder output})$$
 $$x = x + \text{FFN}(x)$$
 
 Masked self-attention prevents attending to future positions (autoregressive).
